@@ -15,7 +15,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Happy Birhtday Gabriel!"
+        android:text="@string/happy_birthday_dedicate"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:textSize="36sp"
